@@ -1,0 +1,25 @@
+.csncel {
+  background-color: #c4c4c4;
+  border: 2px solid;
+  border-color: #c4c4c4;
+  border-radius: 25.5px;
+  box-shadow: 3px 4px 4px #0000001a;
+  height: 31px;
+  position: relative;
+  width: 116px;
+}
+
+.csncel .cancel {
+  color: #ffffff;
+  font-family: "Raleway", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 91px;
+}

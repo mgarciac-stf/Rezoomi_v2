@@ -1,0 +1,16 @@
+.rectangle {
+  border: 1px solid;
+  border-color: #0a6baa;
+  border-radius: 5px;
+  box-shadow: inset 3px 4px 4px 3px #0a6baa26;
+  height: 23px;
+  width: 24px;
+}
+
+.rectangle.default {
+  background-color: #ffffff;
+}
+
+.rectangle.clicked {
+  background-color: #0a6baa;
+}
